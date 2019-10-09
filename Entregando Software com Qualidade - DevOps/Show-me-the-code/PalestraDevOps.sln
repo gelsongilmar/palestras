@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PalestraDevOps", "PalestraDevOps\PalestraDevOps.vbproj", "{8586914D-F8C7-46BF-90F3-B0A30A3DCBD8}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PalestraDevOps.test", "PalestraDevOps.test\PalestraDevOps.test.vbproj", "{7B37CDA6-1A07-4031-AC7C-416D4FE2A3BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8586914D-F8C7-46BF-90F3-B0A30A3DCBD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8586914D-F8C7-46BF-90F3-B0A30A3DCBD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8586914D-F8C7-46BF-90F3-B0A30A3DCBD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8586914D-F8C7-46BF-90F3-B0A30A3DCBD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B37CDA6-1A07-4031-AC7C-416D4FE2A3BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B37CDA6-1A07-4031-AC7C-416D4FE2A3BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B37CDA6-1A07-4031-AC7C-416D4FE2A3BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B37CDA6-1A07-4031-AC7C-416D4FE2A3BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87F12E09-06C7-4EFA-820F-1CC02C1FE5A6}
+	EndGlobalSection
+EndGlobal

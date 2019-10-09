@@ -1,0 +1,44 @@
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps.test\bin\Debug\PalestraDevOps.test.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps.test\bin\Debug\PalestraDevOps.test.pdb
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps.test\bin\Debug\PalestraDevOps.test.xml
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps.test\bin\Debug\PalestraDevOps.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps.test\bin\Debug\PalestraDevOps.pdb
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps.test\bin\Debug\PalestraDevOps.xml
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps.test\bin\Debug\PalestraDevOps.dll.config
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps.test\obj\Debug\PalestraDevOps.test.vbprojAssemblyReference.cache
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps.test\obj\Debug\PalestraDevOps.test.Resources.resources
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps.test\obj\Debug\PalestraDevOps.test.vbproj.GenerateResource.cache
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps.test\obj\Debug\PalestraDevOps.test.vbproj.CoreCompileInputs.cache
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps.test\obj\Debug\PalestraDevOps.test.vbproj.CopyComplete
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps.test\obj\Debug\PalestraDevOps.test.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps.test\obj\Debug\PalestraDevOps.test.xml
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps.test\obj\Debug\PalestraDevOps.test.pdb
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps.test\bin\Debug\PalestraDevOps.test.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps.test\bin\Debug\PalestraDevOps.test.pdb
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps.test\bin\Debug\PalestraDevOps.test.xml
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps.test\bin\Debug\PalestraDevOps.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps.test\bin\Debug\PalestraDevOps.pdb
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps.test\bin\Debug\PalestraDevOps.xml
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps.test\bin\Debug\PalestraDevOps.dll.config
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps.test\obj\Debug\PalestraDevOps.test.vbprojAssemblyReference.cache
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps.test\obj\Debug\PalestraDevOps.test.Resources.resources
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps.test\obj\Debug\PalestraDevOps.test.vbproj.GenerateResource.cache
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps.test\obj\Debug\PalestraDevOps.test.vbproj.CoreCompileInputs.cache
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps.test\obj\Debug\PalestraDevOps.test.vbproj.CopyComplete
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps.test\obj\Debug\PalestraDevOps.test.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps.test\obj\Debug\PalestraDevOps.test.xml
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps.test\obj\Debug\PalestraDevOps.test.pdb

@@ -1,0 +1,124 @@
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\PalestraDevOps.dll.config
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\PalestraDevOps.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\PalestraDevOps.pdb
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\PalestraDevOps.xml
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\obj\Debug\PalestraDevOps.vbprojAssemblyReference.cache
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\obj\Debug\PalestraDevOps.Resources.resources
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\obj\Debug\PalestraDevOps.vbproj.GenerateResource.cache
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\obj\Debug\PalestraDevOps.vbproj.CoreCompileInputs.cache
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\obj\Debug\PalestraDevOps.vbproj.CopyComplete
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\obj\Debug\PalestraDevOps.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\obj\Debug\PalestraDevOps.xml
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\obj\Debug\PalestraDevOps.pdb
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\csc.exe
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\csc.exe.config
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\csc.rsp
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\csi.exe
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\csi.exe.config
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\csi.rsp
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\System.AppContext.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\System.Console.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\vbc.exe
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\vbc.exe.config
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\vbc.rsp
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aschimma\OneDrive\00004 - Palestras\Devops\Integração Contínua\PalestraDevOps\PalestraDevOps\bin\roslyn\VBCSCompiler.exe.config
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\PalestraDevOps.dll.config
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\PalestraDevOps.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\PalestraDevOps.pdb
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\PalestraDevOps.xml
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\csc.exe
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\csc.exe.config
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\csc.rsp
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\csi.exe
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\csi.exe.config
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\csi.rsp
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\System.AppContext.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\System.Collections.Immutable.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\System.Console.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\System.Diagnostics.Process.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\System.IO.Compression.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\System.IO.FileSystem.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\System.IO.Pipes.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\System.Reflection.Metadata.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\System.Security.AccessControl.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\System.Security.Claims.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\System.Security.Principal.Windows.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\System.Threading.Thread.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\System.ValueTuple.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\System.Xml.XmlDocument.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\System.Xml.XPath.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\vbc.exe
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\vbc.exe.config
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\vbc.rsp
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\VBCSCompiler.exe
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\roslyn\VBCSCompiler.exe.config
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\obj\Debug\PalestraDevOps.vbprojAssemblyReference.cache
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\obj\Debug\PalestraDevOps.Resources.resources
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\obj\Debug\PalestraDevOps.vbproj.GenerateResource.cache
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\obj\Debug\PalestraDevOps.vbproj.CoreCompileInputs.cache
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\obj\Debug\PalestraDevOps.vbproj.CopyComplete
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\obj\Debug\PalestraDevOps.dll
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\obj\Debug\PalestraDevOps.xml
+C:\git\gelsongilmar\palestras\Entregando Software com Qualidade - DevOps\Show-me-the-code\PalestraDevOps\obj\Debug\PalestraDevOps.pdb
